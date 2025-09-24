@@ -1,0 +1,16 @@
+# Временные аудиофайлы
+temp/
+*.wav
+*.mp3
+
+# Виртуальное окружение
+venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# ОС
+.DS_Store
+Thumbs.db

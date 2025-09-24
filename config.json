@@ -1,0 +1,5 @@
+{
+  "language": "ru",
+  "asr_model": "small",
+  "tts_speaker": "baya"
+}

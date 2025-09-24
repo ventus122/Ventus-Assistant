@@ -1,0 +1,9 @@
+openai-whisper
+torch
+torchaudio
+sounddevice
+speechrecognition
+pydub
+requests
+
+
